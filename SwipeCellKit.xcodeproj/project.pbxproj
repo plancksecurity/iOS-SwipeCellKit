@@ -144,9 +144,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 3F234ACB1E44A7A400E22A38 /* Build configuration list for PBXNativeTarget "SwipeCellKit" */;
 			buildPhases = (
+				3F234AC01E44A7A400E22A38 /* Headers */,
 				3F234ABE1E44A7A400E22A38 /* Sources */,
 				3F234ABF1E44A7A400E22A38 /* Frameworks */,
-				3F234AC01E44A7A400E22A38 /* Headers */,
 				3F234AC11E44A7A400E22A38 /* Resources */,
 			);
 			buildRules = (
